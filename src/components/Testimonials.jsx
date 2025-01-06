@@ -101,10 +101,10 @@ const Testimonials = () => {
                                 <p className='py-3'>{item.text}</p>
                                 <div className='flex justify-between items-center'>
                                     <div>
-                                        <h3 className='font-semibold text-red-500 text-lg'>{item.name}</h3>
+                                        <h3 className='font-semibold text-blue-500 text-lg'>{item.name}</h3>
                                         <p className='text-sm mt-1'>CEO, Webelite Builders</p>
                                     </div>
-                                    <Quote className='text-red-400'/>
+                                    <Quote className='text-blue-400'/>
                                 </div>
                             </div>
                         </SwiperSlide>

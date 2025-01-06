@@ -9,7 +9,7 @@ const Education = () =>{
         <div class="box-border text-center">
             <h3 className="text-2xl font-semibold text-blue-600">Bachlor of Science (Information Technology) </h3>
 <h4 className="text-xl text-blue">University of Mumbai</h4>
-      <h5 className="text-md text-red"></h5>     
+      <h5 className="text-md text-blue"></h5>     
 </div>
 
 </div>

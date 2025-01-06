@@ -16,14 +16,14 @@ const Projects = () => {
           desc: 'Webelite Builders did an amazing job on our website. Their professionalism and dedication to our project were outstanding.',
           image: Tshco,
           live: "https://www.thestudenthelpline.com/"
-          // github: "https://github.com/rohitsingh93300/portfolio"
+          // github: "https://github.com/ekatasingh93300/portfolio"
         },
         {
           title: 'Thestudenthelpline',
           desc: 'The team at Webelite Builders exceeded our expectations with their digital marketing expertise. Highly recommend!',
           image: Tshio,
           live: "https://thestudenthelpline.io/",
-          github: "https://github.com/rohitsingh93300/YtSpicyBites"
+          github: "https://github.com/ekatasingh93300/YtSpicyBites"
         },
         {
           title: 'Swiggy Clone',
@@ -44,14 +44,14 @@ const Projects = () => {
           desc: 'Working with Webelite Builders was a seamless experience. They brought our vision to life with a modern, responsive website.',
           image: Vdr,
           live: "https://statisticsassignmenthelp.com.au/",
-          // github: "https://github.com/rohitsingh93300/supercars"
+          // github: "https://github.com/ekatasingh93300/supercars"
         },
         {
           title: 'Lead Generation Pannel',
           desc: 'Working with Webelite Builders was a seamless experience. They brought our vision to life with a modern, responsive website.',
           image: Cbs,
           live: "https://contentcreator.co.in/",
-          // github: "https://github.com/rohitsingh93300/supercars"
+          // github: "https://github.com/ekatasingh93300/supercars"
         },
       ];
 

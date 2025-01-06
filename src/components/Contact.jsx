@@ -32,7 +32,7 @@ const Contact = () => {
       <div className='mb-16 max-w-7xl mx-auto'>
         <div className='flex flex-col md:flex-row justify-between items-center'>
             <div className='md:w-1/2 mb-8 ml-2 md:mb-0'>
-              <h2 className='text-3xl font-bold mb-3 text-red-500'>Get in Touch</h2>
+              <h2 className='text-3xl font-bold mb-3 text-blue-500'>Get in Touch</h2>
               <p className='mb-4 text-white/85'>I'm always open to new opportunities and collaboration. Feel free to reach out!</p>
               <div className='flex space-x-4'>
                 <a href="#" className='text-foreground/60 hover:text-foreground/80'>
@@ -58,7 +58,7 @@ const Contact = () => {
                 <label htmlFor="message" className='block text-sm font-medium text-gray-700'>Message</label>
                 <textarea name="message" id='message' placeholder='Enter Your Message' className='mt-1 p-2 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50'/>
               </div>
-              <input type="submit" value="Send Message" className='bg-red-500 text-white px-3 py-2 rounded-lg' />
+              <input type="submit" value="Send Message" className='bg-blue-500 text-white px-3 py-2 rounded-lg' />
             </form>
         </div>
       </div>

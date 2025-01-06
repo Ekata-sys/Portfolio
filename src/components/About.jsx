@@ -17,7 +17,7 @@ const About = () => {
             <div className='bg-gray-100 py-12'>
                 <div className='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8'>
                     <div className='text-center'>
-                        <h2 className='text-base text-red-600 font-semibold tracking-wide uppercase'>About Me</h2>
+                        <h2 className='text-base text-blue-600 font-semibold tracking-wide uppercase'>About Me</h2>
                         <p className='mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl'>Hi, I'm Ekata Srivastava</p>
                         <p className='mt-4 max-w-2xl text-xl text-gray-500 lg:mx-auto'>
                             A Front-end Developer with expertise in web development, SEO, and the Wordpress.
@@ -32,7 +32,7 @@ const About = () => {
                                 </p> 
                             </div>
                             <div className='border border-red-200 rounded-lg md:p-7 py-7  flex flex-col gap-8 items-center shadow-lg shadow-red-300'>
-                                <h3 className='text-2xl font-semibold text-red-600'>Skills & Expertise</h3>
+                                <h3 className='text-2xl font-semibold text-blue-600'>Skills & Expertise</h3>
                                 <div className='flex items-center justify-center flex-wrap gap-3'>
                                     <div className='border border-red-300 flex items-center gap-1 w-max px-2 py-1 rounded-lg shadow-md shadow-red-300'>
                                         <img src={Html} alt="" className='w-10' />
